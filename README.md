@@ -3,7 +3,7 @@ Artefactos necesarios para la creación de programa bancario y la funcionalidad 
 
 <h2>Historias de usuario</h2>
 
-<h3>Historias de usuario</h3>
+<h3 align="center">Historias de usuario</h3>
 
 **Titulo** Agregar clientes
 ________________________________________________________________________________________________________________
@@ -16,3 +16,6 @@ ________________________________________________________________________________
 
 **Para** poder visualizarlo en forma de lista, incluyendo los datos del cliente
 ________________________________________________________________________________________________________________
+
+<h3 align="center">Diagrama de flujo de datos </h3>
+![DFD](DFD.png)
