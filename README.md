@@ -20,3 +20,8 @@ ________________________________________________________________________________
 <h3 align="center">Diagrama de flujo de datos </h3>
 
 ![DFD](DFD.png)
+
+
+<h3 align="center">diagrama de secuencia para ingresar un nuevo cliente </h3>
+
+![DS](DS.png)
