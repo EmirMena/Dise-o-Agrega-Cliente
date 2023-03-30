@@ -5,9 +5,12 @@ Artefactos necesarios para la creación de programa bancario y la funcionalidad 
 
 <h3>Historias de usuario</h3>
 ________________________________________________________________________________
+
 **Como** usuario
 ________________________________________________________________________________
+
 **Deseo** agregar clientes a una base de datos o archivo 
 ________________________________________________________________________________
+
 **Para** poder visualizarlo en forma de lista, incluyendo los datos del cliente
 ________________________________________________________________________________
